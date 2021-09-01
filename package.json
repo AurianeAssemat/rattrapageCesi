@@ -1,0 +1,15 @@
+{
+  "name": "rattrapage",
+  "version": "1.0.0",
+  "description": "Rattrapage du C parce que j'arrive pas à le faire en java",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
